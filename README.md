@@ -1,3 +1,6 @@
+![](https://github.com/SosegadoWebDev/angular_firebase_CRUD/blob/master/src/assets/localhost_4500_heroes.png)
+![](https://github.com/SosegadoWebDev/Firebase-CRUD_ANGULAR/blob/master/src/assets/localhost_4500_heroes%20(1).png)
+
 # HeroesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
